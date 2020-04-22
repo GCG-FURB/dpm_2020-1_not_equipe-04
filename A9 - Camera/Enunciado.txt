@@ -1,0 +1,1 @@
+[A9 – peso: 1,5] utilizar a câmera para poder capturar imagens ou vídeos. Ou ainda, usar o microfone para poder capturar audios. Estas imagens, vídeos ou audios devem ser armazenados no dispositivo após serem capturados.

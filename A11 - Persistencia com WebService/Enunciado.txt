@@ -1,0 +1,1 @@
+[A11 – peso: 2,0] criar uma aplicação com duas entidades e três atributos para serem persistidos localmente e sincronizados com um WebService.

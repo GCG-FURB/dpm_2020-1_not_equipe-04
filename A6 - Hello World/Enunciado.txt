@@ -1,0 +1,1 @@
+[A6 – peso: 1,5] demostrar os passos iniciais para usar a plataforma, o tradicional “Hello World”. Não esqueça de também demonstrar se precisa algum tipo de certificado/autenticação, e como se faz para depurar o código e usar o simulador (se for o caso).
